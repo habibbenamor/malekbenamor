@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="hbib.js">
+    <title>cabinet dr nadia ben amor </title>
+</head>
+<body>
+    <h1>cabinet dr nadia ben amor</h1>
+    <p>
+
+      <h2> binvenu chez cabinet dr nadia ben amor <br> meilleur dentiste a bir ali ben khlifa</h2>
+     
+    </p>
+    <form action="bonjour.html">  
+            nom<input type="text"><br>
+            prenon<input type="text"><br>
+            age<input type="number"><br>
+            probleme<input type="text" width="60%"><br>
+            <select name="" id="">
+                <option value="">
+                    homme
+                </option>
+                <option value="">
+                    femme
+                </option>
+                <option value="">
+                    non precis 
+                </option><br>
+        </select>
+        <input type="submit" value="confirmer">
+        <input type="reset" value="suprimer">
+    </form>
+    
+</body>
+</html>
